@@ -108,5 +108,14 @@ nav li button{
     margin-left: 250px;
    
  }
-
+ .name
+ {
+    margin-left: 480px;
+    font-size: 30px;
+    
+ }
+.name h2,p {
+    background-color: rgb(253, 248, 248);
+    display: flex;
+}
 
