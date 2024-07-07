@@ -26,12 +26,18 @@ nav li button{
     border-radius: 10px;
 }
 .first-sec{
-    background-color: rgb(230, 224, 224);
+   
     margin-left: 350px;
     margin-right: 400px;
     margin-top: 100px;
     
 }
+.first-sec, .picture, .rose
+{
+    background-color:rgb(248, 246, 246);
+   
+}
+
 .first-sec h1 {
     font-size: 80px;
    
@@ -68,16 +74,7 @@ nav li button{
     
    
 }
-  button
-{
-    background-color: rgba(240, 248, 255, 0.931);
-    border-radius: 15px;
-    border-color: rgb(241, 231, 231);
-    margin: 40px;
-    padding: 20px;
-    margin-right: 150px;
-    
-}
+
   ul li
   {
     list-style-type: none;
@@ -89,52 +86,38 @@ nav li button{
  
  .picdiv-1 
  {
-    margin-top: 50px;
+    margin-top: 150px;
+}
+.picdiv-1 ul button
+{
+    background-color: rgba(255, 255, 255, 0.656);
+    padding: 5px;
+    border-color: rgba(242, 241, 241, 0.834);
+    width: 100px;
+    height: 50px;
+    margin-top: 40px;
+    border-radius: 10px;
+    font-size: 15px;
+}
 
- }
-.picture ul li p{
-    font-size: 30px;
+.picdiv-2
+{ 
+    margin-top: 50px;
+    font-size: 25px;
+    
 } 
- .picdiv-2
+ .picdiv-3
  {
     display: flex;
     margin-left: 100px;
     margin-top: 50px;
    
  }
- .picdiv-3
+ .picdiv-4
  {
     display: flex;
     margin-left: 250px;
    
  }
 
- .lp p{
-    margin-top: 40px;
-    font-size: 30px;
-
- }
- .lp
- {
-    background-color: rgb(240, 236, 236);
-   
-
-}
-
-
-.rose {
-    display: flex;
- }
- .rose button
- {
-    background-color: black;
-    color: white;
-    padding: 20px;
-    font-size: 30px;
-    margin-right: 450px;
-    width: 300px;
- }
- h1{
-    font-size: 60px;
-    margin-top: 30px;
- }
+ 
